@@ -1,16 +1,26 @@
-## Hi there 👋
+# Rohan Oruganti
 
-<!--
-**TenFinges/TenFinges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech student at IISc with a strong focus on **problem solving, algorithms, probability and systems**.  
+I enjoy working on mathematically grounded problems and building efficient, end-to-end solutions.
 
-Here are some ideas to get you started:
+## Interests
+- Algorithms & Data Structures  
+- Probability, Statistics, and Mathematical Modeling  
+- Quantitative Finance & Algorithmic Trading  
+- Systems, Networking, and Performance Optimization  
+- Machine Learning (theory + practical applications)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work On
+- Algorithmic problem solving and competitive programming  
+- Stock analysis, backtesting, and quantitative strategies  
+- ML-based prediction and pattern analysis  
+- Systems projects involving networking, performance, and automation
+
+## Skills
+- **Languages:** C++, Python  
+- **Core CS:** DSA, Algorithms
+- **Math:** Probability, Statistics, Linear Algebra, Calculus  
+- **Tools:** Git, Linux 
+- **Concepts:** Survival analysis, time series, optimization, backtesting
+
+---
