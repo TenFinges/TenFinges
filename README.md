@@ -4,11 +4,12 @@ I'm a B.Tech student at IISc with a strong focus on problem solving, algorithms,
 I enjoy working on mathematically grounded problems and building efficient, end-to-end solutions.
 
 ## Interests
-- Algorithms & Data Structures  
+- Algorithms & Data Structures
+- Time Series Analysis
 - Probability, Statistics, and Mathematical Modeling  
-- Quantitative Finance & Algorithmic Trading  
+- Quantitative Finance & Algorithmic Trading
 - Systems, Networking, and Performance Optimization  
-- Machine Learning (theory + practical applications)
+- Machine Learning
 
 ## What I Work On
 - Algorithmic problem solving and competitive programming  
