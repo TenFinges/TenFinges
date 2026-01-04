@@ -1,6 +1,6 @@
 # Rohan Oruganti
 
-I'm a B.Tech student at IISc with a strong focus on **problem solving, algorithms, probability and systems**.  
+I'm a B.Tech student at IISc with a strong focus on problem solving, algorithms, probability and systems.  
 I enjoy working on mathematically grounded problems and building efficient, end-to-end solutions.
 
 ## Interests
