@@ -7,6 +7,7 @@
 
 ## 👨‍🎓 Student @ IISc
 
+- I built this cool project: gitvital.in
 - I enjoy algorithms, system design, and ML
 - I’m interested in ML (especially time-series / finance) and performance-heavy systems  
 - I like projects where thinking matters more than frameworks  
